@@ -1,0 +1,64 @@
+,support,itemsets
+0,0.03345195729537367,frozenset({'UHT-milk'})
+1,0.05246568378240976,frozenset({'beef'})
+2,0.033248601931875954,frozenset({'berries'})
+3,0.08052872394509406,frozenset({'bottled beer'})
+4,0.11052364006100661,frozenset({'bottled water'})
+5,0.06487036095577021,frozenset({'brown bread'})
+6,0.05541433655312659,frozenset({'butter'})
+7,0.07768174885612608,frozenset({'canned beer'})
+8,0.04290798169801729,frozenset({'chicken'})
+9,0.04961870869344179,frozenset({'chocolate'})
+10,0.08276563294356888,frozenset({'citrus fruit'})
+11,0.05805795627859685,frozenset({'coffee'})
+12,0.03965429588205389,frozenset({'cream cheese'})
+13,0.05327910523640061,frozenset({'curd'})
+14,0.03711235383833249,frozenset({'dessert'})
+15,0.06344687341128623,frozenset({'domestic eggs'})
+16,0.058973055414336555,frozenset({'frankfurter'})
+17,0.04809354346720895,frozenset({'frozen vegetables'})
+18,0.0722928317234367,frozenset({'fruit/vegetable juice'})
+19,0.033248601931875954,frozenset({'hamburger meat'})
+20,0.03294356888662939,frozenset({'hygiene articles'})
+21,0.037417386883579054,frozenset({'long life bakery product'})
+22,0.05856634468734113,frozenset({'margarine'})
+23,0.05236400610066091,frozenset({'napkins'})
+24,0.07981698017285206,frozenset({'newspapers'})
+25,0.031011692933401117,frozenset({'onions'})
+26,0.1934926283680732,frozenset({'other vegetables'})
+27,0.08896797153024912,frozenset({'pastry'})
+28,0.07564819522114896,frozenset({'pip fruit'})
+29,0.05765124555160142,frozenset({'pork'})
+30,0.18393492628368074,frozenset({'rolls/buns'})
+31,0.10899847483477376,frozenset({'root vegetables'})
+32,0.03782409761057448,frozenset({'salty snack'})
+33,0.09395017793594305,frozenset({'sausage'})
+34,0.09852567361464158,frozenset({'shopping bags'})
+35,0.17437722419928825,frozenset({'soda'})
+36,0.03040162684290798,frozenset({'specialty chocolate'})
+37,0.03385866802236909,frozenset({'sugar'})
+38,0.10493136756481952,frozenset({'tropical fruit'})
+39,0.038434163701067614,frozenset({'waffles'})
+40,0.07168276563294357,frozenset({'whipped/sour cream'})
+41,0.042094560244026434,frozenset({'white bread'})
+42,0.25551601423487547,frozenset({'whole milk'})
+43,0.13950177935943062,frozenset({'yogurt'})
+44,0.03436705643111337,"frozenset({'whole milk', 'bottled water'})"
+45,0.030503304524656837,"frozenset({'citrus fruit', 'whole milk'})"
+46,0.042602948652770714,"frozenset({'rolls/buns', 'other vegetables'})"
+47,0.047381799694966954,"frozenset({'root vegetables', 'other vegetables'})"
+48,0.032740213523131674,"frozenset({'soda', 'other vegetables'})"
+49,0.035892221657346214,"frozenset({'other vegetables', 'tropical fruit'})"
+50,0.07483477376715811,"frozenset({'whole milk', 'other vegetables'})"
+51,0.04341637010676157,"frozenset({'yogurt', 'other vegetables'})"
+52,0.033248601931875954,"frozenset({'whole milk', 'pastry'})"
+53,0.030096593797661414,"frozenset({'pip fruit', 'whole milk'})"
+54,0.030604982206405694,"frozenset({'rolls/buns', 'sausage'})"
+55,0.03833248601931876,"frozenset({'rolls/buns', 'soda'})"
+56,0.05663446873411286,"frozenset({'rolls/buns', 'whole milk'})"
+57,0.03436705643111337,"frozenset({'rolls/buns', 'yogurt'})"
+58,0.048906964921199794,"frozenset({'root vegetables', 'whole milk'})"
+59,0.040061006609049314,"frozenset({'soda', 'whole milk'})"
+60,0.04229791560752415,"frozenset({'whole milk', 'tropical fruit'})"
+61,0.032231825114387394,"frozenset({'whipped/sour cream', 'whole milk'})"
+62,0.05602440264361973,"frozenset({'whole milk', 'yogurt'})"
